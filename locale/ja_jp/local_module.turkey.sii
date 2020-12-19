@@ -7,7 +7,7 @@ localization_db : .localization
 
 	#COUNTRIES
 		key[]: "georgia"
-		val[]: "ジョージア" 
+		val[]: "ジョージア"
 
 		key[]: "azerbaijan"
 		val[]: "アゼルバイジャン"
